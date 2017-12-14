@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Day13-AbstractClasses/Day13-AbstractClasses.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day12-Inheritance/Day12-Inheritance.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day11-2DArrays/Day11-2DArrays.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Day10-BinaryNumbers/Day10-BinaryNumbers.xcodeproj">
    </FileRef>
    <FileRef
