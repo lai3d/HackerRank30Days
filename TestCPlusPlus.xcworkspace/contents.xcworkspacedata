@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Day8-DictionariesAndMaps/Day8-DictionariesAndMaps.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day7-Arrays/Day7-Arrays.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day6-LetUsReview/Day6-LetUsReview.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day5-Loops/Day5-Loops.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Day4-ClassVsInstance/Day4-ClassVsInstance.xcodeproj">
+   </FileRef>
+</Workspace>
