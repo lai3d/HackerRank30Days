@@ -8,8 +8,20 @@
 
 #include <iostream>
 
+using namespace std;
+
+int factorial(int n) {
+    // Complete this function
+    if(1 == n)
+        return 1;
+    else
+        return n * factorial(n - 1);
+}
+
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    int n;
+    cin >> n;
+    int result = factorial(n);
+    cout << result << endl;
     return 0;
 }

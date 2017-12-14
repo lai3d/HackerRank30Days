@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Day10-BinaryNumbers/Day10-BinaryNumbers.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Day9-Recursion/Day9-Recursion.xcodeproj">
    </FileRef>
    <FileRef
